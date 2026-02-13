@@ -51,7 +51,7 @@ load_dotenv()
 colorama_init(autoreset=True)
 
 
-OWNER_ID = 5318806760,1680864482
+OWNER_ID = 5318806760
 
 BOT_TOKEN = os.environ.get('BOT_TOKEN')
 API_ID = int(os.environ.get('API_ID', 0))
